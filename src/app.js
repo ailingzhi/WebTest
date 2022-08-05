@@ -24,7 +24,7 @@ export default class App extends React.Component {
     fullStyle = [
         `/*
 * 哈哈哈
-* 程序媛来袭
+* 艾大程序媛来袭
 * 如何给这种空白的页面加点儿东西。
 * 简单给臭大坑你演示演示呗。
 */
